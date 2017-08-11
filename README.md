@@ -1,2 +1,2 @@
 # Datascience
-My repo for all my datscience projects
+My repo for all my datascience projects
